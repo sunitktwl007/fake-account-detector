@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+.DS_Store
+.vscode/
+.idea/
+*.log
+npm-debug.log*
+yarn-error.log*
+dist/
+build/
+.cache
+.next
+out
+.turbo
+.vercel
